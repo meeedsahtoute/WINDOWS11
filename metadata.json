@@ -1,0 +1,5 @@
+{
+  "name": "AuraOS",
+  "description": "A high-performance, modern virtual operating system with a custom kernel simulation, virtual file system, and Windows 11-inspired desktop environment.",
+  "requestFramePermissions": []
+}
